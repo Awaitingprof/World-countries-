@@ -6,7 +6,7 @@ The dataset was obtained from Kaggle and contains the following columns:
 ### Country
 Name of the country.
 ### Density (P/Km2)
-Population density measured in persons per square kilometer.
+Population density is measured in persons per square kilometer.
 ### Abbreviation
 Abbreviation or code representing the country.
 ### Agricultural Land (%)
